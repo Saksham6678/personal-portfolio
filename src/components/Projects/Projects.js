@@ -38,7 +38,7 @@ function Projects() {
               isBlog={false}
               title="Personal-porttfolio"
               description=" A full responsive personal-portfolio website that contains my professional information  , built by using react.js , node.js , CSS3 and VS code"
-              ghLink=""
+              ghLink="https://personal-portfolio-git-master-saksham-jains-projects-f9bd5e34.vercel.app/"
             />
           </Col>
 
