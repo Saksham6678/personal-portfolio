@@ -13,7 +13,7 @@ function AboutCard() {
             <br />
             A last year BTech student ( Electronics and Computer Enginnering)
             <br />
-            at JC Bose University , YMCA , Faridbabad.
+            at JC Bose University , YMCA , Faridabad.
             
             <br />
             <br />
